@@ -1,0 +1,48 @@
+{
+    "name": "line",
+    "dados": {
+        "title": "Totais mês 10/2022",
+        "values": [
+            {
+                "subtitle": "Semana 1",
+                "division": "Vendas",
+                "value": 100
+            },
+            {
+                "subtitle": "Semana 1",
+                "division": "Compras",
+                "value": 50
+            },
+            {
+                "subtitle": "Semana 2",
+                "division": "Vendas",
+                "value": 120
+            },
+            {
+                "subtitle": "Semana 2",
+                "division": "Compras",
+                "value": 60
+            },
+            {
+                "subtitle": "Semana 3",
+                "division": "Vendas",
+                "value": 90
+            },
+            {
+                "subtitle": "Semana 3",
+                "division": "Compras",
+                "value": 35
+            },
+            {
+                "subtitle": "Semana 4",
+                "division": "Vendas",
+                "value": 105
+            },
+            {
+                "subtitle": "Semana 4",
+                "division": "Compras",
+                "value": 65
+            }
+        ]
+    }
+}
